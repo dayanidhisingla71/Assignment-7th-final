@@ -1,0 +1,7 @@
+Create an Interface called Animals with speak(), eat() methods and Create Class dog And Cat
+
+
+Create an Abstract Class Animal with their variables and abstract method and speak method which is not abstract method
+
+
+Take two numbers as string input and convert them into Integers and find the maximum of the two numbers.
